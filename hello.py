@@ -1,3 +1,3 @@
 # Greet to world
-print("Hello, world!")
+print("Good day, world!")
 
